@@ -1,0 +1,102 @@
+
+body {
+    background-color: #0D1A2D;
+}
+.card {
+    background-color: #13273F;
+    border-radius: 25px;
+    width: 320px;
+    height: 550px;
+    margin: 85px auto;
+}
+.image-text {
+    margin: 25px;
+}
+
+.main-text {
+    margin: 0 40px 0 0;
+
+}
+
+#card-img {
+    width: 270px;
+    border-radius: 20px;
+    margin: 25px 0;
+}
+h2 {
+    color: #F7FBFF;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 22px;
+    margin-top: 0;
+}
+p {
+    color: #7D94B3;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+    font-size: 14px;
+    margin: 0;
+}
+
+#etherium-balance {
+    color: #0AFFFF;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 14px;
+}
+.icons-text {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 0;
+}
+
+.etherium-balance {
+    margin-left: 25px;
+    width: 50%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.days-left {
+    margin-right: 25px;
+    width: 50%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+#icon-ethereum {
+    margin-right: 5px;
+}
+
+#icon-clock {
+    margin-right: 5px;
+}
+
+.divider {
+    background-color: #F7FBFF;
+    width: 270px;
+    height: 1px;
+    opacity: 0.2;
+    margin: 15px auto;
+}
+
+#avatar {
+    width: 33px;
+    margin-left: 25px;
+}
+
+.avatar-text {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+#avatar-text {
+    margin-left: 15px;
+}
+
+.author {
+    color: #F7FBFF;
+}
